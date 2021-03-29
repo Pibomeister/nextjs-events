@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import classes from './button.module.css';
+import classes from './button.module.scss';
 
 export default function Button(props) {
   if (props.link) {
